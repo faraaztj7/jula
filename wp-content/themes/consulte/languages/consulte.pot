@@ -1,0 +1,536 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Consulte\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-10 08:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.1; wp-5.7\n"
+"X-Domain: consulte"
+
+#: inc/customizer.php:272 inc/customizer.php:522 inc/customizer.php:531
+#: inc/customizer.php:540 inc/customizer.php:549
+msgid "#"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/customizer.php:476
+#, php-format
+msgid "&copy; %1$s, %2$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#: footer.php:76
+msgid ". All Rights Reserved."
+msgstr ""
+
+#: 404.php:22 inc/customizer.php:562
+msgid "404"
+msgstr ""
+
+#: inc/customizer.php:587
+msgid "404 Button Text"
+msgstr ""
+
+#: inc/customizer.php:577
+msgid "404 Content"
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "404 Page Settings"
+msgstr ""
+
+#: inc/customizer.php:559
+msgid "404 Text"
+msgstr ""
+
+#: inc/customizer.php:568
+msgid "404 Title"
+msgstr ""
+
+#: inc/widget/widget_register.php:9 inc/widget/widget_register.php:23
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/demo-importer.php:13
+msgid "After you import this demo, you will have setup all content."
+msgstr ""
+
+#: inc/global-functions.php:169 inc/global-functions.php:172
+#: inc/global-functions.php:175 inc/global-functions.php:182
+#: inc/global-functions.php:185 inc/global-functions.php:190
+msgid "Archives"
+msgstr ""
+
+#: inc/global-functions.php:201
+msgid "Author: "
+msgstr ""
+
+#: inc/customizer.php:338 inc/customizer.php:436
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:330 inc/customizer.php:428
+msgid "Background Image"
+msgstr ""
+
+#: template-parts/page-title.php:10
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer.php:399
+msgid "Blog Content"
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "Blog layout Settings"
+msgstr ""
+
+#: inc/customizer.php:354
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: inc/customizer.php:362
+msgid "Breadcrumb Hover Color"
+msgstr ""
+
+#: inc/customizer.php:278
+msgid "Button BG Color"
+msgstr ""
+
+#: inc/customizer.php:286
+msgid "Button Color"
+msgstr ""
+
+#: inc/customizer.php:294
+msgid "Button Hover BG Color"
+msgstr ""
+
+#: inc/customizer.php:269
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer.php:259
+msgid "Button Text"
+msgstr ""
+
+#: inc/menu/menu.php:49
+msgid "Column"
+msgstr ""
+
+#: inc/menu/menu.php:60
+msgid "Column Five"
+msgstr ""
+
+#: inc/menu/menu.php:59
+msgid "Column Four"
+msgstr ""
+
+#: inc/menu/menu.php:56
+msgid "Column One"
+msgstr ""
+
+#: inc/menu/menu.php:58
+msgid "Column Three"
+msgstr ""
+
+#: inc/menu/menu.php:57
+msgid "Column Two"
+msgstr ""
+
+#: comments.php:91
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Name of the theme
+msgid "Consulte"
+msgstr ""
+
+#: inc/customizer.php:159
+msgid "Consulte Theme Options"
+msgstr ""
+
+#: inc/customizer.php:476
+msgid "Consulte Theme. All Rights Reserved. Built with Hasthemes."
+msgstr ""
+
+#. Description of the theme
+msgid "Consulting WordPress Theme"
+msgstr ""
+
+#: footer.php:76
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer.php:483
+msgid "Copyright BG Color"
+msgstr ""
+
+#: functions.php:50
+msgid "Copyright Right"
+msgstr ""
+
+#: inc/customizer.php:492
+msgid "Copyright Text Color"
+msgstr ""
+
+#: inc/menu/menu.php:78
+msgid "Disable Link"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:32
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/tgm-plugin/init.php:56
+msgid "Elementor"
+msgstr ""
+
+#: inc/menu/menu.php:41
+msgid "Enable MegaMenu"
+msgstr ""
+
+#: inc/global-functions.php:216
+msgid "Error 404"
+msgstr ""
+
+#: inc/customizer.php:519
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/widget/widget_register.php:21
+msgid "Footer "
+msgstr ""
+
+#: inc/customizer.php:473
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:196
+msgid "Footer Settings"
+msgstr ""
+
+#: 404.php:26 inc/customizer.php:590
+msgid "Go back to Home Page"
+msgstr ""
+
+#: inc/customizer.php:234
+msgid "Header BG Color"
+msgstr ""
+
+#: inc/customizer.php:242
+msgid "Header Menu Color"
+msgstr ""
+
+#: inc/customizer.php:250
+msgid "Header Menu Hover Color"
+msgstr ""
+
+#: inc/customizer.php:174
+msgid "Header Settings"
+msgstr ""
+
+#: inc/global-functions.php:15
+msgid "Home"
+msgstr ""
+
+#: inc/tgm-plugin/init.php:61
+msgid "HT Slider for Elementor"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themes.hasthemes.com/consulte/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.templatemonster.com/vendors/ThemesHub/"
+msgstr ""
+
+#: inc/customizer.php:528
+msgid "Instagram Link"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:126
+msgctxt "Inter font: on or off"
+msgid "on"
+msgstr ""
+
+#: template-parts/content-none.php:45
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: comments.php:93
+msgid "Leave a Comment"
+msgstr ""
+
+#: inc/tgm-plugin/init.php:66
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: functions.php:49
+msgid "Main Menu"
+msgstr ""
+
+#: inc/customizer.php:179
+msgid "Menu Button"
+msgstr ""
+
+#: inc/tgm-plugin/init.php:51
+msgid "Move Addons for Elementor"
+msgstr ""
+
+#: template-parts/content-single.php:66 inc/customizer.php:421
+msgid "Next"
+msgstr ""
+
+#: inc/customizer.php:418
+msgid "Next Button Text"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/tgm-plugin/init.php:81
+msgid "One Click Demo Import"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: template-parts/content.php:54 template-parts/content-single.php:49
+#: inc/global-functions.php:206
+msgid "Page"
+msgstr ""
+
+#: 404.php:23 inc/customizer.php:571
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: inc/customizer.php:346
+msgid "Page Title Color"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "Page Title Settings"
+msgstr ""
+
+#: template-parts/content.php:50 template-parts/content-page.php:19
+#: template-parts/content-single.php:45
+msgid "Pages:"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search Here"
+msgstr ""
+
+#: footer.php:126
+msgctxt "placeholder"
+msgid "Search..."
+msgstr ""
+
+#: inc/tgm-plugin/init.php:107
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: template-parts/content-single.php:65 inc/customizer.php:412
+msgid "Prev"
+msgstr ""
+
+#: inc/customizer.php:409
+msgid "Prev Button Text"
+msgstr ""
+
+#: inc/customizer.php:393
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer.php:381
+msgid "Read More Button"
+msgstr ""
+
+#: inc/customizer.php:390
+msgid "Read More Button Text"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-single.php:91
+msgid "Related Posts"
+msgstr ""
+
+#: inc/tgm-plugin/init.php:106
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/customizer.php:312
+msgid "Search Button Color"
+msgstr ""
+
+#: inc/customizer.php:320
+msgid "Search Button Hover Color"
+msgstr ""
+
+#: inc/global-functions.php:211
+msgid "Search results for: "
+msgstr ""
+
+#: inc/menu/menu.php:52
+msgid "Select Column"
+msgstr ""
+
+#: inc/customizer.php:303
+msgid "Show Search Button"
+msgstr ""
+
+#: inc/widget/widget_register.php:7
+msgid "Sidebar "
+msgstr ""
+
+#: inc/customizer.php:501
+msgid "Social Icon Color"
+msgstr ""
+
+#: inc/customizer.php:510
+msgid "Social Icon Hover Color"
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/demo-importer.php:7
+msgid "Standard Demo"
+msgstr ""
+
+#: comments.php:89
+msgid "Submit Comment"
+msgstr ""
+
+#: inc/tgm-plugin/init.php:108
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: 404.php:24 inc/customizer.php:580
+msgid "The page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Theme Color Settings"
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "Theme Primary Color"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Theme Secondary Color"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemesHub"
+msgstr ""
+
+#: inc/customizer.php:370
+msgid "To Hide Page Title Section On Page"
+msgstr ""
+
+#: inc/customizer.php:537
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/customizer.php:445
+msgid "Widget Title Color"
+msgstr ""
+
+#: inc/customizer.php:453
+msgid "Widgets Content Color"
+msgstr ""
+
+#: inc/customizer.php:461
+msgid "Widgets Link Hover Color"
+msgstr ""
+
+#: inc/tgm-plugin/init.php:71
+msgid "WPForms"
+msgstr ""
+
+#: inc/tgm-plugin/init.php:76
+msgid "WPForms Widget For Elementor Page Builder"
+msgstr ""
+
+#: comments.php:79
+msgid "Your Email *"
+msgstr ""
+
+#: comments.php:76
+msgid "Your Name *"
+msgstr ""
+
+#: comments.php:82
+msgid "Your Website"
+msgstr ""
+
+#: inc/customizer.php:546
+msgid "Youtube Link"
+msgstr ""
